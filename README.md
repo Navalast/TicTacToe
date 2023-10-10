@@ -1,2 +1,2 @@
-# TikTakToe
-Игра крестики нолики / a TakTakToe game
+# TicTacToe
+Игра крестики нолики / a TicTacToee game
